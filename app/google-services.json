@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005378085259",
+    "firebase_url": "https://asdfgd-1e244.firebaseio.com",
+    "project_id": "asdfgd-1e244",
+    "storage_bucket": "asdfgd-1e244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005378085259:android:06f37c1e8b84a3f5f88f8e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005378085259-mm41g36dr7960e1u02rt9l909e2m967a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWq81RINaV75Vn6WzlDR7uxeYxf9YuYM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005378085259-mm41g36dr7960e1u02rt9l909e2m967a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005378085259-1p30fpqio1jaeacbp5patl740uetd50r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "luissancar.borrar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
